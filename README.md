@@ -1,0 +1,2 @@
+# -PORTTUS-ZTESTE_HROMANINI
+Versionando com ABAPgit
